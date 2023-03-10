@@ -16,3 +16,27 @@ O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utiliza
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+## Exemplo
+
+## Requisitos Atendidos
+
+As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
+|------|------------------------|------------|-----------------|
+|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
+|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
+
+## Descrição das estruturas:
+
+## Notícia
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
+| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
+| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
+| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+
