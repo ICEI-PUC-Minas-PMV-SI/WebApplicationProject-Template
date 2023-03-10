@@ -118,7 +118,8 @@ Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site u
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: Achei o site muito bom e intuitivo. 
+    Não tive dificuldades e acho que ficou bem intuitivo.
 
 
 
@@ -135,7 +136,9 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filros, tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
+    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
+    tanto na hora da pesquisa, quanto depois dela, nos resultados.
 
 
 
