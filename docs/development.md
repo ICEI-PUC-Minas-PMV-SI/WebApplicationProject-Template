@@ -25,10 +25,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
+|ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
+|RF-001| O sistema deve exibir as notícias mais populares. | João | index.html |
+|RF-002| Usuários autenticados podem registrar novas notícias. | Ana Paula | cadastro-noticia.html |
 
 ## Descrição das estruturas:
 
