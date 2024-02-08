@@ -27,8 +27,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | João | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | Ana Paula | cadastro-noticia.html |
+|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | João | index.html |
+|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês | Ana Paula | cadastro-noticia.html |
 
 ## Descrição das estruturas:
 
