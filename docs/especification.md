@@ -2,7 +2,9 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
+
+Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
 ## Personas
 
@@ -44,10 +46,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
-|------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|ID    | Descrição do Requisito  | Prioridade | 
+|------|-----------------------------------------|----| 
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | 
 
 
 ### Requisitos não Funcionais
