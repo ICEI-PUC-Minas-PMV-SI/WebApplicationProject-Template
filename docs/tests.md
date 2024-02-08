@@ -50,7 +50,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários gerenciem seu cadastro.|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
-|*Caso de Teste*                                 |*CT01 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT02 - Criar conta parte 2*                                        |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários gerenciem seu cadastro.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
@@ -110,14 +110,12 @@ Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site u
 | 2       | SIM             | 5                    | 17.11 segundos                  |
 | 3       | SIM             | 5                    | 39.09 segundos                  |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Média**     | 100%           | 5                | 28.02 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
 
 
     Comentários dos usuários: Achei o site muito bom e intuitivo. 
     Não tive dificuldades e acho que ficou bem intuitivo.
-
-
 
 
 Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
@@ -126,9 +124,9 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 22.54 segundos                          |
 | 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 5                    | 36.21 segundos                          |
+| 3       | SIM             | 4                    | 36.21 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
 
@@ -136,11 +134,7 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
     redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
     tanto na hora da pesquisa, quanto depois dela, nos resultados.
 
-
-
-
 ## Avaliação dos Testes de Usabilidade
-
 
 Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
 
