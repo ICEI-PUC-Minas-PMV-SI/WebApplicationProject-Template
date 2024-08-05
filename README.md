@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Design Centrado no Usuário`
+`DISCIPLINA: Projeto - Aplicações Web`
 
-`SEMESTRE: 3º`
+`SEMESTRE: 1º`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -15,21 +15,21 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
-* Nome completo do aluno 6
+
 
 ## Orientador
 
-* Nome completo do professor
+* Nome completo do professor 1
 
 # Planejamento
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Introdução](docs/introducao.md) <br> [Estado da Arte](docs/estado.md) |
-| ETAPA 2         |[Especificação de Requisitos de Software](docs/requisitos.md) |
-| ETAPA 3         |[Design de Interação](docs/design.md) |
-| ETAPA 4        |[Testes de Software](docs/testes.md) |
-| ETAPA 5         | [Apresentação](apresentacao/README.md) |
+| ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
+| ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
+| ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
+| ETAPA 5         | [Apresentação](presentation/README.md) |
 
 # Código
 
